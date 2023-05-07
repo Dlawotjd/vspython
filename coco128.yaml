@@ -1,0 +1,7 @@
+# 데이터셋에 대한 정보
+names: ['calamari', 'Cutlassfish', 'mackerel', 'Spanish calamari']
+nc: 4
+
+# 학습 및 검증 데이터 경로
+train: /home/uit-lim/vspython/change_files/train/images
+val: /home/uit-lim/vspython/change_files/val/images
